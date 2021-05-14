@@ -394,7 +394,8 @@ mark {
     .post-meta a:hover {
       color: #222; }
   .post .post-meta {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+    visibility: collapse; }
     .post .post-meta i {
       color: #fff; }
     .post .post-meta a {
@@ -626,3 +627,29 @@ mark {
     font-style: italic; }
   .quote-by {
     color: #222; }
+
+#discuss-btn {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px;
+  display: inline-table;
+  padding: 0px 33px;
+  border-radius: 3px;
+  height: 52px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  text-transform: none;
+  font-weight: 400;
+  margin: 0px 0px 15px;
+  font-size: 15px;
+  color: white;
+  width: fit-content;
+  margin-top: 15px;
+  background-color: #333;
+  align-self: center; }
+
+#discuss-btn > div {
+  display: table-cell;
+  vertical-align: middle; }
+
+.contacts-inline > li {
+  display: inline; }

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Авторский дизайн интерьера в Санкт-Петербургe"
 date: 2020-01-12T12:14:34+06:00
 image: "images/post/post-6.png"
 author: "John Doe" # use capitalize

@@ -1,8 +1,8 @@
 ---
-title: ""
 date: 2019-05-12T12:14:34+06:00
 image: "images/post/post-3.jpg"
 author: "John Doe" # use capitalize
+title: "Авторский дизайн интерьера в Санкт-Петербургe"
 description: "This is meta description."
 categories: ["inspire"]
 tags: ["new", "inspire", "nature"]

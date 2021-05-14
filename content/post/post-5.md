@@ -2,6 +2,7 @@
 title: "Why The Giving Tree Makes You Cry"
 date: 2019-05-12T12:14:34+06:00
 image: "images/post/post-5.jpg"
+title: "Авторский дизайн интерьера в Санкт-Петербургe"
 author: "John Doe" # use capitalize
 description: "This is meta description."
 categories: ["Tree"]
